@@ -1,0 +1,15 @@
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\bin\Debug\net6.0\DZ54.exe
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\bin\Debug\net6.0\DZ54.deps.json
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\bin\Debug\net6.0\DZ54.runtimeconfig.json
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\bin\Debug\net6.0\DZ54.dll
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\bin\Debug\net6.0\DZ54.pdb
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.csproj.AssemblyReference.cache
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.AssemblyInfoInputs.cache
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.AssemblyInfo.cs
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.csproj.CoreCompileInputs.cache
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.dll
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\refint\DZ54.dll
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.pdb
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\DZ54.genruntimeconfig.cache
+G:\Учеба\Програм\C#\DZ\DZLess8\DZ54\obj\Debug\net6.0\ref\DZ54.dll
